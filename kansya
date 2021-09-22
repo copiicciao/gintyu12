@@ -39,7 +39,7 @@
         </div>
         <div class="row mb-4">
             <div class="col-12">
-                <h1 class="display-5 my-5"></h1>
+                <h2 class="display-5 my-5">1年2組 生徒からのメッセージ</h2>
             </div>
         </div>
         <div class="row">
@@ -48,10 +48,14 @@
                     <img class="card-img-top" src="">
                     <div class="card-body">
                         <h4 class="card-title">
-                          
+                           M,Kさんより
                         </h4>
                         <p>
-                          
+                           とても短い期間でしたがクラスを盛り上げたり、体育では
+                          ダンスを教えて貰いほんとにありがとうございました。
+                          おかげでとても楽しく過ごすことができました。
+                          こんなコロナ禍ですが、健康に気を付けて元気に過ごして
+                          ください！！！ありがとうございました
                         </p>
                     </div>
                 </div>
